@@ -1,8 +1,11 @@
 import React from 'react'
 
 function ComponentPratish() {
-  return (
-    <div>ComponentPratish</div>
+  return (<div>
+     <div>Component Pratish</div>
+    <div>He likes animated movies</div>
+  </div>
+   
   )
 }
 
