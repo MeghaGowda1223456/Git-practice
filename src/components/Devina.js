@@ -2,7 +2,13 @@ import React from 'react'
 
 function Devina() {
   return (
-    <div>Devina's Component</div>
+    
+    <div style={{backgroundColor:"green"}}>Devina's Component
+    <p> Hii This is Lolakshi</p>
+    
+    
+    <div>Code Hacked BY VJ</div>
+    </div>
   )
 }
 
