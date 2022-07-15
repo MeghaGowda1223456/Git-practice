@@ -1,6 +1,6 @@
 import React from 'react'
 
-function vijay() {
+function Vijay() {
   return (
     <div>
       <div>vijay</div>
@@ -10,4 +10,4 @@ function vijay() {
   )
 }
 
-export default vijay
+export default Vijay
