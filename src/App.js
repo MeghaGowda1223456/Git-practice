@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import React from 'react'
 import "./App.css";
 import DataComponents from "./components/DataComponents";
 import  { useState } from "react";
@@ -13,7 +14,7 @@ import Fruits from "./components/Shubham";
 =======
 import Jagath from './components/Jagath';
 import Fruits from "./components/Shubham";
-import Fruits from './components/Shubham';
+
 import Vijay from './components/vijay';
 >>>>>>> b5b8fa52c3e265e0ca5516094821fbf626fad056
 
