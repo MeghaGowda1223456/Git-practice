@@ -19,7 +19,7 @@ function Lolakshi() {
 
         <div>Hello Lolakshi</div>
 
-        <div>Hello Lolakshi</div>
+        <div>Hello Golakshi 🐼</div>
         <button onClick={greet}>Devina</button>
         
     </div>
