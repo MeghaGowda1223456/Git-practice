@@ -10,6 +10,8 @@ import Lolakshi from "./components/Lolakshi";
 import Ramya from './components/Ramya';
 import Devina from "./components/Devina";
 import Jagath from './components/Jagath';
+import Fruits from "./components/Shubham";
+import Vijay from './components/vijay';
 
 function App() {
   const [state, setState] = useState(true);
