@@ -1,5 +1,4 @@
 import logo from "./logo.svg";
-import React from 'react'
 import "./App.css";
 import DataComponents from "./components/DataComponents";
 import  { useState } from "react";
@@ -11,6 +10,7 @@ import Ramya from './components/Ramya';
 import Devina from "./components/Devina";
 import Jagath from './components/Jagath';
 import Fruits from "./components/Shubham";
+import Fruits from './components/Shubham';
 import Vijay from './components/vijay';
 
 function App() {
