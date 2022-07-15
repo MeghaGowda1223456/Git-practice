@@ -23,6 +23,8 @@ function App() {
       <Devina/>
       <Jagath/>
       <Ramya/>
+      <Fruits/>
+      <Vijay/>
     </div>
   );
 }
