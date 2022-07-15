@@ -1,5 +1,5 @@
 import React from 'react'
-import Lolakshi from './Lolakshi';
+
 
 
 
