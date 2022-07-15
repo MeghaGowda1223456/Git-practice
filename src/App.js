@@ -9,10 +9,14 @@ import Umashankar from "./components/Umashankar";
 import Lolakshi from "./components/Lolakshi";
 import Ramya from './components/Ramya';
 import Devina from "./components/Devina";
+<<<<<<< HEAD
+import Fruits from "./components/Shubham";
+=======
 import Jagath from './components/Jagath';
 import Fruits from "./components/Shubham";
 
 import Vijay from './components/vijay';
+>>>>>>> b5b8fa52c3e265e0ca5516094821fbf626fad056
 
 function App() {
   const [state, setState] = useState(true);
@@ -27,7 +31,10 @@ function App() {
       <Jagath/>
       <Ramya/>
       <Fruits/>
+<<<<<<< HEAD
+=======
       <Vijay/>
+>>>>>>> b5b8fa52c3e265e0ca5516094821fbf626fad056
     </div>
   );
 }
