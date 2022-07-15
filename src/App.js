@@ -18,7 +18,7 @@ function App() {
       <Devina/>
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
-
+      <Devina/>
       <Ramya/>
     </div>
   );
