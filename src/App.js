@@ -1,8 +1,12 @@
 import logo from "./logo.svg";
-import React from 'react'
+
 import "./App.css";
 import DataComponents from "./components/DataComponents";
+<<<<<<< HEAD
 import { useState } from "react";
+=======
+import  { useState } from "react";
+>>>>>>> 5fe3aee5635fe39f6f78c216d7dfb912a7c84d1f
 import ComponentA from "./components/ComponentA";
 import ComponentB from "./components/ComponentB";
 import Umashankar from "./components/Umashankar";
@@ -21,7 +25,7 @@ function App() {
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
       <Devina/>
-      <Jagath/>
+      <jagath/>
       <Ramya/>
     </div>
   );
