@@ -1,4 +1,5 @@
 import React from 'react'
+import Lolakshi from './Lolakshi';
 
 
 
@@ -17,6 +18,7 @@ function Lolakshi() {
 
         <div>Hello Lolakshi</div>
         <button onClick={greet}>Devina</button>
+        
     </div>
 
 
