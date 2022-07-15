@@ -5,6 +5,8 @@ function Fruits(){
         <div>
             This is fruits section.
             Different kind of fruits are available here.
+
+            Code  Added
         </div>
     )
 }
