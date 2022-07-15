@@ -13,13 +13,13 @@ import Devina from "./components/Devina";
 function App() {
   const [state, setState] = useState(true);
   return (
-    <div className="App">
+    <div className="App" style={{display:"flex"}}>
       <Umashankar/>
       <ComponentB/>
       <Devina/>
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
-
+      <Devina/>
       <Ramya/>
     </div>
   );

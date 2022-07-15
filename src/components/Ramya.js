@@ -10,6 +10,7 @@ function Ramya() {
         <h1>This is Ramya Component</h1>
         <h1>Changes done by jagath</h1>
         <button onclick={wish}>Lolakshi</button>
+        <div>Hello Ramya</div>
     </div>
   )
 }
