@@ -15,6 +15,9 @@ function Lolakshi() {
   return (
     <div>
         <button onClick={displayGreeting}> Lolakshi</button>
+        <button onClick={greet}>Devina</button>
+
+        <div>Hello Lolakshi</div>
 
         <div>Hello Lolakshi</div>
         <button onClick={greet}>Devina</button>
