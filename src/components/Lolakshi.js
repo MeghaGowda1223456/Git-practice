@@ -15,7 +15,7 @@ function Lolakshi() {
     <div>
         <button onClick={displayGreeting}> Lolakshi</button>
 
-        <div>Hello Lolakshi</div>
+        <div>Hello Golakshi 🐼</div>
         <button onClick={greet}>Devina</button>
     </div>
 
