@@ -1,14 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
 import DataComponents from "./components/DataComponents";
-import React, { useState } from "react";
+import  { useState } from "react";
 import ComponentA from "./components/ComponentA";
 import ComponentB from "./components/ComponentB";
 import Umashankar from "./components/Umashankar";
 import Lolakshi from "./components/Lolakshi";
 import Ramya from './components/Ramya';
 import Devina from "./components/Devina";
-import jagath from './components/Jagath';
+import Jagath from './components/Jagath';
+import Fruits from './components/Shubham';
+import Vijay from './components/vijay';
 
 function App() {
   const [state, setState] = useState(true);
@@ -22,6 +24,8 @@ function App() {
       <Devina/>
       <Jagath/>
       <Ramya/>
+      <Fruits/>
+      <Vijay/>
     </div>
   );
 }
