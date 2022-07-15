@@ -2,6 +2,7 @@ import React from 'react'
 
 
 
+
 function Lolakshi() {
     const displayGreeting=()=>{
         document.write('Hello to git World')
@@ -14,9 +15,13 @@ function Lolakshi() {
   return (
     <div>
         <button onClick={displayGreeting}> Lolakshi</button>
+        <button onClick={greet}>Devina</button>
+
+        <div>Hello Lolakshi</div>
 
         <div>Hello Golakshi 🐼</div>
         <button onClick={greet}>Devina</button>
+        
     </div>
 
 

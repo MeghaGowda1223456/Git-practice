@@ -1,9 +1,13 @@
 import React from 'react'
 
-function vijay() {
+function Vijay() {
   return (
-    <div>vijay</div>
+    <div>
+      <div>vijay</div>
+      <div>Hello Vijay did you get any conflicts</div>
+    </div>
+    
   )
 }
 
-export default vijay
+export default Vijay
