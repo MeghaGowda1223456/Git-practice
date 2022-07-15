@@ -9,6 +9,7 @@ import Umashankar from "./components/Umashankar";
 import Lolakshi from "./components/Lolakshi";
 import Ramya from './components/Ramya';
 import Devina from "./components/Devina";
+import jagath from './components/Jagath';
 
 function App() {
   const [state, setState] = useState(true);
@@ -20,6 +21,7 @@ function App() {
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
       <Devina/>
+      <Jagath/>
       <Ramya/>
     </div>
   );
