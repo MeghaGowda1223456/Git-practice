@@ -6,12 +6,14 @@ import ComponentA from "./components/ComponentA";
 import ComponentB from "./components/ComponentB";
 import Lolakshi from "./components/Lolakshi";
 import Ramya from './components/Ramya';
+import Devina from "./components/Devina";
 
 function App() {
   const [state, setState] = useState(true);
   return (
     <div className="App">
       <ComponentB/>
+      <Devina/>
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
 
