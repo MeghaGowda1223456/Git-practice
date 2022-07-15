@@ -5,6 +5,7 @@ import { useState } from "react";
 import ComponentA from "./components/ComponentA";
 import ComponentB from "./components/ComponentB";
 import Umashankar from "./components/Umashankar";
+import Ramya from './components/Ramya';
 
 function App() {
   const [state, setState] = useState(true);
@@ -13,8 +14,12 @@ function App() {
       <Umashankar/>
       <ComponentB/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
+
+      <Ramya/>
     </div>
   );
 }
+
+
 
 export default App;
