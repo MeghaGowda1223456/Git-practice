@@ -8,4 +8,5 @@ function Fruits(){
         </div>
     )
 }
+export default Fruits;
 

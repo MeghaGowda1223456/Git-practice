@@ -15,6 +15,7 @@ function App() {
     <div className="App">
       <Umashankar/>
       <ComponentB/>
+      <Devina/>
       <Lolakshi/>
       {state ? <DataComponents setState={setState} /> : <ComponentA />}
       <Devina/>
