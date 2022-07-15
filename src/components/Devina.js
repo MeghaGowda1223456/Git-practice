@@ -2,7 +2,7 @@ import React from 'react'
 
 function Devina() {
   return (
-    <div>Devina's Component</div>
+    <div>Code Hacked BY VJ</div>
   )
 }
 
